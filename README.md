@@ -1,6 +1,8 @@
 # Levenshtein
 
-This is an exercise concerning string similarity and lexical analogy based on experimental data from Albright and Hayes (2003). It is a version of the 'wug test'.
+This is an exercise concerning string similarity and lexical analogy based on experimental data from Albright and Hayes (2003).
+
+It is a version of the 'wug test'.
 
 ## Description of files:
 
